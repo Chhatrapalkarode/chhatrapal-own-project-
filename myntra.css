@@ -1,0 +1,568 @@
+#flex1{
+    margin-top: 10px;
+    background-color:#f7f9f9 ;
+    /* border: 2px solid gray; */
+    width: 1090px;
+    height: 100px;
+    display: flex;
+    
+   
+    position: relative;
+     left: 150px; 
+    /* right: 55px; */
+}
+#bank12{
+   
+    
+    height: 32px;
+    width: 1050px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 45px;
+    /* text-align: center; */
+  
+    
+}
+#bank-center{
+    position: relative;
+   
+    left: 20px;
+   
+}
+#title-r{
+    
+    position: relative;
+    top: 25px;
+    font-size: 16px;
+    /* right: 72px; */
+}
+#associate{
+    font-size: 22px;
+    position: relative;
+    top: 5px;
+    right: 92px;
+}
+#mufti{
+    
+    position: relative;
+    top: 25px;
+    right: 72px;
+}
+#puma{
+   
+    position: relative;
+    top: 15px;
+    right: 58px;
+} 
+ #puma1{
+   
+    position: relative;
+    top: 20px;
+    right: 45px;
+} 
+#title1{ 
+    position: absolute;
+    
+     right: 1000px;
+     top: 20px;
+    
+    /* left: 10px; */
+    /* border:  2px solid  red ; */
+      font-size: 20px; 
+     /* gap: 10px; */
+
+}
+#title2{
+    position: absolute;
+    top: 8px;
+    left: 155px;
+    /* border:  2px solid  red ; */
+     font-size: 50px;
+     gap: 30px;
+
+}
+#title3{
+    position: absolute;
+    top: 5px;
+    left: 440px;
+    /* border:  2px solid  red ; */
+     /* font-size: 30px;
+     gap: 20px; */
+}
+#title4{
+    position: absolute;
+    top: 20px;
+    left: 270px;
+    font-size: 25px;
+}
+#title5{
+    position: absolute;
+    top: 30px;
+    left: 720px;
+    /* font-size: 5px; */
+}
+#title6{
+    position: absolute;
+    top: 5px;
+    left: 890px;
+    /* font-size: 5px; */
+}
+#coupon{
+    position: relative;
+    left: 150px;
+    color: #82e0aa ;
+    width: 1320px;
+
+   
+}
+
+#flat100{
+    border: 2px solid #fbeee6 ;
+    background-color: #fae5d3 ;
+    width: 1050px;
+    height: 100px;
+    position: relative;
+    left: 150px;
+}
+#button-f{
+    background-color: #a93226;
+}
+#f200{
+    font-size: 20px;
+    position: relative;
+    left: 55px;
+}
+#f100{
+    font-size: 30px;
+}
+#f-2-200{
+    font-size: 25px;
+}
+#marcho{
+    margin-top: 15px;
+    border: 5px solid #2e86c1;
+    width: 1050px;
+    height: 110px;
+    position: relative;
+    left: 150px;
+    background-color: #2e86c1 ;
+
+}
+#marchobtn{
+    border: 2px solid #fef5e7;
+    width: 160px;
+    height: 75px;
+    position: relative;
+    left: 450px;
+    bottom: 12px;
+    background-color: #fef5e7 ;
+    
+}
+#line{
+    width: 1050px;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+    color: azure;
+   
+}
+#row1{
+   position: relative;
+   right: 100px;
+}
+#fcol12{
+    width: 250px;
+    height: 310px;
+    margin-left: 255px;
+}
+#fstimg{
+    width: 250px;
+    height: 310px;
+
+
+}
+#fpimg{
+     /* position: relative;  */
+    padding-top: 170px;
+    color: black;
+    
+} 
+#sstimg{
+    width: 250px;
+    height: 310px;
+
+}
+#spimg{
+    /* position: relative;  */
+   padding-top: 230px;
+   color: black;
+   
+} 
+#scol12{
+    width: 250px;
+    height: 310px;
+    margin-left: 170px;
+}
+#tstimg{
+    width: 250px;
+    height: 310px;
+
+}
+#tpimg{
+    /* position: relative;  */
+   padding-top: 230px;
+   color: black;
+   
+} 
+#tcol1{
+    /* width: 250px;
+    height: 310px;
+    background-color: aqua; */
+}
+#tcol12{
+    width: 250px;
+    height: 310px;
+    background-color: aqua;
+    margin-left:85px;
+}
+#fostimg{
+    width: 250px;
+    height: 310px;
+    background-color: #fbeee6;
+
+
+}
+#fopimg{
+    /* position: relative;  */
+   padding-top: 230px;
+   color: black;
+   
+} 
+#focol12{
+    margin-right: 60px;
+   
+}
+
+/*  */
+
+#category1{
+    color: #e6b0aa;
+    font-size: 35px;
+    margin-left: 165px;
+}
+
+#line2{
+    margin-left: 150px;
+    color: #7dcea0 ;
+}
+#border1{
+    margin-top: 0px  ;
+    margin-left: 140px;
+    border: 2px solid #58d68d ;
+    width: 1120px;
+    height: 20px;
+    background-color: #58d68d ;
+    margin-bottom: 8px;
+}
+#rowc4{
+   margin-left: 170px;
+}
+
+#fimgc1{
+   gap: 25px;
+    width: 150px;
+    height: 130px;
+    background-color: red ;
+}
+#simgc1{
+    width: 160px;
+    height: 130px;
+}#timgc1{
+    width: 160px;
+    height: 130px;
+}#foimgc1{
+    width: 160px;
+    height: 130px;
+}
+#fiimgc1{
+    width: 160px;
+    height: 130px;
+}
+#fhimg{
+    width: 152px;
+    height: 200px;
+    background-color: #1e8449;
+    /* margin-left: 15px; */
+    margin-left: 60px;
+}
+#shimg{
+    width: 162px;
+    height: 200px;
+    background-color:#1e8449 ;
+    margin-left: 40px;
+
+}
+#thimg{
+    width: 162px;
+    height: 200px;
+    background-color: #1e8449 ;
+    margin-left: 30px;
+}
+#fohimg{
+    width: 162px;
+    height: 200px;
+    background-color: #1e8449 ;
+    margin-left: 18px;
+
+}
+#fihimg{
+    width: 162px;
+    height: 200px;
+    background-color: #1e8449 ;
+   
+}
+
+
+/*  */
+#row5{
+    margin-left: 170px;
+    
+ }
+ 
+ #fimgc12{
+    gap: 5px;
+     width: 150px;
+     height: 130px;
+     /* background-color: red; */
+ }
+ #simgc12{
+     width: 160px;
+     height: 130px;
+ }#timgc12{
+     width: 160px;
+     height: 130px;
+ }#foimgc12{
+     width: 160px;
+     height: 130px;
+ }
+ #fiimgc12{
+     width: 160px;
+     height: 130px;
+     background-color: #1e8449 ;
+ }
+ #fhimg1{
+     width: 152px;
+     height: 200px;
+     background-color: #1e8449 ;
+     /* margin-left: 15px; */
+     margin-left: 52px;
+ }
+ #shimg1{
+     width: 162px;
+     height: 200px;
+     background-color:#1e8449 ;
+     margin-left: 40px;
+ 
+ }
+ #thimg1{
+     width: 162px;
+     height: 200px;
+     background-color: #1e8449 ;
+     margin-left: 30px;
+ }
+ #fohimg1{
+     width: 162px;
+     height: 200px;
+     background-color: #1e8449 ;
+     margin-left: 18px;
+ 
+ }
+ #fihimg1{
+     width: 162px;
+     height: 200px;
+     background-color: #1e8449 ;
+     
+    
+ }
+
+ /*  */
+
+ #lastrow{
+    margin-left: 430px;
+ }
+ #lastfimg{
+    width: 155px;
+    height: 160px;
+
+ }
+ #lastsimg{
+    width: 160px;
+    height: 160px;
+
+ }
+ #lasttimg{
+    width: 160px;
+    height: 160px;
+
+ }
+
+ #lastfhimg{
+    width: 158px;
+    height: 230px;
+    background-color: #1e8449 ;
+
+ }
+ #lastshimg{
+    width: 162px;
+    height: 230px;
+    background-color: #1e8449 ;
+    margin-left: 30px;
+
+
+ }
+ #lastthimg{
+    width: 162px;
+    height: 230px;
+    background-color: #1e8449 ;
+    margin-left: 60px;
+
+ }
+ #flex{
+    border: 4px solid #fef5e7;
+   background-color: #fae5d3 ;
+    position: relative;
+    
+    width: 900px;
+    height: 170px;
+    gap: 150px;
+    margin-left: 240px;
+ }
+ #imgphone{
+    width: 80px;
+    height: auto;
+ }
+ #phoneimg{
+   
+    position: absolute;
+    top: 10px;
+    left: 115px;
+    transform: rotatez(14deg);
+ }
+ #spara{
+    /* display: flex; */
+    font-size: 35px;
+    position: absolute;
+    left: 250px;
+   bottom: 100px;
+   
+   
+ }
+ #tpara{
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    left: 380px;
+ }
+ #fpara{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+
+ }
+ #innernavbar{
+    position: relative;
+    top: 22px;
+ }
+ #brandimg{
+    position: relative;
+    bottom: 25px;
+ }
+ #navbar1{
+    margin-top: 20px;
+    width: 1300px;
+    position: relative;
+    left: 18px;
+    align-items: center;
+ }
+ #manprofile{
+    position: relative;
+    bottom: 18px;
+   left: 45px;
+ }
+ #namwhislist{
+    position:relative;
+    bottom:20px ;
+    left: 51px;
+
+ } 
+  #manbag{
+    position: relative;
+    bottom:22px ;
+    left:30px ;
+ }
+ #roweasy{
+    width: 1010px;
+    border: 5px solid #fdedec;
+    background-color: #fdedec;
+    margin-left: 50px;
+ }
+ #lastp{
+    margin-left: 50px;
+    background-color:#d0d3d4  ;
+ }
+ #divlast{
+    /* border: 5px solid red; */
+    background-color:#d0d3d4  ;
+ }
+ 
+ #transitionp{
+    font-size: 28px;
+    border: 5px solid #d6dbdf ;
+    height: 50px;
+    width: 200px;
+    background-color: #d6dbdf;
+    transform: rotatez(90deg);
+    left: 1200px;
+    top: 250px;
+   position: fixed;
+
+
+ }
+ #bell{
+    left: 1270px;
+    top: 400px;
+   position: fixed;
+
+ }
+
+
+
+ #color{
+    color: #a93226;
+ }
+  
+#men{
+    color: black;
+}
+#new{
+    color: red;
+}
+ #para1{
+    display: none;
+    transition: all;
+    transition-delay: 58s;
+    
+    
+    
+ }
+ #mena:hover #para1{
+    display: flex;
+    background-color:white;
+ }
+ 
+ #womena:hover #para1{
+    display: flex;
+    background-color:white;
+ }
+ 
